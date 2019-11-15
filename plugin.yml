@@ -1,0 +1,12 @@
+main: xyz.joshrpg.SpeakNarrator.Main
+name: SpeakNarrator
+version: 1.0.0
+author: joshrpg
+description: Spigot breaks the narrator. This plugin "fixes" that...hopefully...
+website: https://github.com/joshrpg/SpeakNarrator
+prefix: SpeakNarrator
+commands:
+    version:
+        description: Tells you the version of SpeakNarrator.
+        permission: speaknarrator.version
+        permission-message: You do not have the speaknarrator.version permission
