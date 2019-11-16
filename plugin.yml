@@ -1,6 +1,6 @@
 main: xyz.joshrpg.SpeakNarrator.Main
 name: SpeakNarrator
-version: 1.0.0
+version: 1.0.1
 author: joshrpg
 description: Spigot breaks the narrator. This plugin "fixes" that...hopefully...
 website: https://github.com/joshrpg/SpeakNarrator
